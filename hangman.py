@@ -61,7 +61,7 @@ while True:
 
     entered_letter = input("Enter A Letter: ")
 
-    if (entered_letter == "söylelahadi"):
+    if (entered_letter == "tellmeanswer"):
         print(random_selected_word)
 
     if len(entered_letter) != 1:
